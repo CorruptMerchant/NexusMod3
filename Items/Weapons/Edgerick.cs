@@ -24,7 +24,7 @@ namespace NexusMod3.Items.Weapons
 			item.useStyle = 1;
 			item.knockback = 5;
 			item.melee = true;
-			item.value = Item.sellPrice(silver: 30);
+			item.value = Item.buyPrice(platinum: 5);
 			item.rare = ItemRarityID.Yellow;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
