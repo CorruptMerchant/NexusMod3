@@ -2,6 +2,8 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
+//hi
+
 namespace NexusMod3.Items.Consumables
 {
 	public class MerchantGuildBanner : ModItem
